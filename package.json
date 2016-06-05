@@ -1,0 +1,22 @@
+{
+  "name": "just-flatten",
+  "version": "1.0.0",
+  "description": "Just flatten.  srsly",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TehShrike/just-flatten.git"
+  },
+  "keywords": [
+    "flatten"
+  ],
+  "author": "TehShrike",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/TehShrike/just-flatten/issues"
+  },
+  "homepage": "https://github.com/TehShrike/just-flatten#readme"
+}
