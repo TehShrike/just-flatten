@@ -1,6 +1,6 @@
 {
   "name": "just-flatten",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Just flatten.  srsly",
   "main": "index.js",
   "scripts": {
